@@ -33,7 +33,7 @@ a {
 }
 
 .tm-color-primary {
-  color: yellow;
+  color: black;
 }
 
 .tm-color-gray {
@@ -693,4 +693,8 @@ figure.effect-bubba:hover p {
   .tm-box-pad {
     padding: 50px 30px;
   }
+}
+
+#title_main{
+  color: rgb(255, 234, 0);
 }
