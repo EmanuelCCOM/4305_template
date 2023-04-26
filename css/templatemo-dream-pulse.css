@@ -40,6 +40,10 @@ a {
   color: #333;
 }
 
+.tm-color-white{
+  color: white;
+}
+
 .tm-bg-black-transparent {
   background-color: rgba(0, 0, 0, 0.3);
 }
@@ -58,7 +62,7 @@ a {
 }
 
 .tm-section-title {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
 
 .parallax-window {
@@ -75,7 +79,7 @@ a {
 }
 
 .tm-section p {
-  color: white;
+  color: #333;
   font-weight: bold;
 }
 
