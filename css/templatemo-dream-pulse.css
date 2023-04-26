@@ -51,7 +51,7 @@ a {
 
 .tm-bg-white-transparent {
   background-color: rgba(0, 0, 0, 0.436);
-  border: 1px solid white;
+  border: 1px solid rgb(189, 189, 189);
   backdrop-filter: blur(10px)
 }
 
