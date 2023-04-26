@@ -45,7 +45,7 @@ a {
 }
 
 .tm-bg-black-transparent {
-  background-color: rgb(255, 234, 0);
+  background-color: rgba(255, 234, 0, 0.74);
 }
 
 .tm-bg-white-transparent {
