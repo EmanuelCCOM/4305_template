@@ -46,11 +46,13 @@ a {
 
 .tm-bg-black-transparent {
   background-color: rgba(255, 234, 0, 0.74);
+  backdrop-filter: blur(10px)
 }
 
 .tm-bg-white-transparent {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(0, 0, 0, 0.436);
   border: 1px solid white;
+  backdrop-filter: blur(10px)
 }
 
 .tm-intro {
