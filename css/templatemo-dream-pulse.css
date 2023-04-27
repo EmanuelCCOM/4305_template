@@ -698,3 +698,11 @@ figure.effect-bubba:hover p {
 #title_main{
   color: rgb(255, 234, 0);
 }
+
+.project {
+  display: none;
+}
+
+.project.active {
+  display: block;
+}
