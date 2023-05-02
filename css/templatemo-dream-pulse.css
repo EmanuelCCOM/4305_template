@@ -78,7 +78,6 @@ a {
 
 .tm-section {
   display: flex;
-  align-items: center;
   height: auto;
   max-width: 1275px;
   padding: 66px 60px;
