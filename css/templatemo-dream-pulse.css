@@ -785,3 +785,13 @@ figure.effect-bubba:hover p {
 #members h2, p{
   padding-top: 1em;
 }
+
+.member {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
+.member img {
+  width: 150px;
+}
