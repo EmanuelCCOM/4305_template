@@ -799,3 +799,8 @@ figure.effect-bubba:hover p {
   border: 2px solid rgb(255, 234, 0); /* add a yellow border around the image */
   max-width: 100%; /* ensure the image doesn't exceed the width of its container */
 }
+
+.imagetest {
+  border: 2px solid rgb(255, 234, 0);
+  align-items: center;
+}
