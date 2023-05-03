@@ -804,3 +804,7 @@ figure.effect-bubba:hover p {
   border: 2px solid rgb(255, 234, 0);
   align-items: center;
 }
+
+.inline {
+  white-space: pre-line;
+}
